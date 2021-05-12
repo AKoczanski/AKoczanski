@@ -6,6 +6,7 @@ I'm Adrian Koczański - a young Front End Developer.
 
 [![Facebook Badge](https://img.shields.io/badge/-@AdrianKoczański-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/adrian.koczanski/) [![Mail Badge](https://img.shields.io/badge/-akoczanski-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akoczanski2@gmail.com)
 
+- ✍ You can find my projects in my [portfolio](https://akoczanski.github.io/portfolio/) 📁
 - 🔭 I’m currently a student 🎓
 - 🌱 I'm currently studying advanced concepts of React
 - 👯 I’m looking to collaborate on React.js 💼
