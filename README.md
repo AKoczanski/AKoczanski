@@ -10,7 +10,7 @@ I'm Adrian Koczański - a young Front End Developer.
 - 🔭 I’m currently a student 🎓
 - 🌱 I'm currently studying advanced concepts of React
 - 👯 I’m looking to collaborate on React.js 💼
-- ⚡ Fun fact: I love playing the computer games
+- ⚡ Fun fact: I play the guitar 🎸
 
 ### Main Technologies:
 
