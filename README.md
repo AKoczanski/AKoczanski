@@ -22,7 +22,7 @@ I'm Adrian Koczański - a young Front End Developer.
 
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />](https://www.mongodb.com)
+[<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" />](https://firebase.google.com/)
 
 [<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://git-scm.com)
 
