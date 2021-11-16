@@ -5,6 +5,8 @@ I'm Adrian Koczański - a young Front End Developer.
 📫 Contact me!
 
 [![Mail Badge](https://img.shields.io/badge/-akoczanski-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akoczanski2@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-akoczanski-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-koczanski/)
+
 
 - ✍ You can find my projects in my [portfolio](https://akoczanski.github.io/portfolio/) 📁
 - 🔭 I’m currently a student 🎓
