@@ -1,6 +1,6 @@
 # Hi, I'm Adrian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Adrian Koczański - a young Front End Developer.
+I'm Adrian Koczański - hardworking, responsible and valuable team member. Frontend developer with two years of experience in diagnosing problems and creating solutions. Enthusiast of Vue framework and React library used on a daily basis at work...
 
 📫 Contact me!
 
