@@ -9,9 +9,8 @@ I'm Adrian Koczański - hardworking, responsible and valuable team member. Front
 
 
 - ✍ You can find my projects in my [portfolio](https://akoczanski.github.io/portfolio/) 📁
-- 🔭 I’m currently a student 🎓
-- 🌱 I'm currently studying advanced concepts of React
-- 👯 I’m looking to collaborate on React.js 💼
+- 🔭 I’m currently a Frontend engineer 🎓
+- 👯 I’m looking to collaborate on React/Vue + Typescript 💼
 - ⚡ Fun fact: I play the guitar 🎸
 
 ### Main Technologies:
